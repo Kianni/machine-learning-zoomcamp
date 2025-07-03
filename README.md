@@ -1,2 +1,2 @@
 # machine-learning-zoomcamp
-learning ML basics
+learning ML basics to gain useful skills!
